@@ -1,6 +1,6 @@
 # foro-udenar
 
-## Ejemplo de foro, creado para la Universidad de Nariño
+## Ejemplo de foro, creado para la Universidad de Nariño.
 
 
-## php, vue.js, bootstrap
+## php, vue.js, bootstrap.
