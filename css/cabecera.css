@@ -1,0 +1,204 @@
+.cabecera {
+    background-color: #28a745;
+}
+
+.cabecera a {
+    color: white;
+    font-size: 20px;
+    margin: 10px
+}
+
+.cabecera a:hover {
+    background-color: #28a745!important;
+    color: black;
+}
+
+.cabecera a.active {
+    background-color: #28a745!important;
+    color: black;
+}
+
+.btn:focus,
+.btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+    background: #28a745 !important;
+}
+
+.cabecera a img {
+    width: 70px;
+    margin-top: 10px!important;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.iniciar {
+    float: right!important
+}
+
+.publicaciones {
+    text-align: center;
+    padding: 50px;
+}
+
+.publicaciones h2 p {
+    float: right;
+}
+
+footer {
+    text-align: center
+}
+
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.logo {
+    height: 20px;
+    width: 10px;
+}
+
+.navbar-toggle {
+    margin-top: 20px;
+}
+
+.navbar-toggle,
+.icon-bar {
+    border: 2px solid white;
+}
+
+.jumbotron {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #28a745;
+    border-radius: 5px;
+    background: #FCF9F9;
+    max-width: 1000px;
+    padding: 0px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.barra-lateral {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #28a745;
+    border-radius: 5px;
+    padding: 10px;
+    background: #FCF9F9;
+}
+
+.espacio-barra2 {
+    margin-bottom: 100px;
+}
+
+p {
+    font-size: 15px !important;
+}
+
+.correo {
+    padding-top: 30px;
+    padding-right: 15px;
+}
+
+.img-correo {
+    padding: 15px;
+}
+
+#tabla {
+    border-collapse: separate;
+    border-spacing: 1px 10px;
+}
+
+#tabla td,
+#tabla th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#table tr:nth-child(even) {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+#tabla tr:hover {
+    background-color: #ddd;
+}
+
+#tabla th {
+    padding-top: 12px;
+    padding-bottom: 2px;
+    text-align: center;
+    /*background-color: #108C0E;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;*/
+}
+
+.comentario-img {
+    margin: 10px;
+}
+
+a {
+    cursor: pointer !important;
+}
+
+textarea {
+    resize: none;
+}
+
+.bloqueo {
+    width: 400px;
+    padding: 30px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icono-eliminar {
+    padding: 5px !important;
+    padding-right: 10px !important;
+    margin-right: 10px !important;
+    border: #f1f1f1;
+    background-color: white;
+    color: red;
+}
+
+.icono-editar {
+    padding: 5px!important;
+    padding-right: 10px !important;
+    margin-right: 10px !important;
+    border: #f1f1f1;
+    background-color: white;
+    color: blue;
+}
+
+.icono-eli {
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 20px;
+    border: #f1f1f1;
+    background-color: white;
+    color: red;
+}
+
+.icono-eliminar:hover,
+.icono-editar:hover,
+.icono-eli:hover,
+table td:hover {
+    background-color: #ddd;
+}
